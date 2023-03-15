@@ -18,8 +18,7 @@ Projede görsel estetikten ziyade işlevsellik ön planda tutulmuş olup, uygula
 ### Live : [Employee List Website](https://employee-list12.netlify.app)
 
 ## Kullanılan Teknolojiler
-- HTML
-- CSS `(SCSS)`
+- [Sass Scss](https://sass-lang.com)
 - [Javascript](https://www.javascript.com)
 - [Bootstrap](https://getbootstrap.com)
 
